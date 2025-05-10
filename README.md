@@ -14,3 +14,8 @@ test accounts
 Seller ==> seller@shoaib.dev pass:seller
 user ==> test1@shoaib.dev pass: test1
 
+
+VERCEL URL for CLIENT DEPLOYEMENT:
+
+https://kkmarketapp-client.vercel.app/
+
